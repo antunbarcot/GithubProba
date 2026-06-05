@@ -1,2 +1,13 @@
-﻿Console.WriteLine("Hello, ovo je promjena u kodu! Nadodana jos jedna promjena.");
+﻿void Prva()
+{
 
+}
+void Druga()
+{
+
+
+}
+void Treca()
+{
+
+}
